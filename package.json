@@ -1,0 +1,27 @@
+{
+  "name": "lazychrono",
+  "version": "1.0.0",
+  "description": "Chrono.gg coin grabber for lazy folk",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/teleyeti/lazychrono.git"
+  },
+  "keywords": [
+    "chrono.gg",
+    "coin"
+  ],
+  "author": "paul.castle@gmail.com",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/teleyeti/lazychrono/issues"
+  },
+  "homepage": "https://github.com/teleyeti/lazychrono#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  },
+  "devDependencies": {}
+}
