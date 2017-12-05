@@ -1,6 +1,4 @@
 # lazychrono
-Chrono.gg coin grabber for lazy folk
-
 ![Crono](https://i.imgur.com/MFT6uhi.png)
 
 Lazychrono is a node app that automatically grabs your daily coins from [chrono.gg](http://chrono.gg).
